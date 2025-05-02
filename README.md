@@ -1,11 +1,8 @@
 # gelangkuu
-Aplikasi toko online menggunakan flutter
-
-# Flutter Coffee Shop App
-
-Aplikasi distribusi kopi berbasis Flutter dengan fitur e-commerce dan SCM.
+Aplikasi toko online berbasis Flutter dengan fitur e-commerce
 
 ## 🔧 Fitur
+- Admin panel
 - Autentikasi pengguna
 - Halaman produk dan detail
 - Keranjang & checkout
